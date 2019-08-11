@@ -1,0 +1,11 @@
+This Mod adds 2 new buildings. 1 Central train-station and 1 small train-station. The Central station "produces" travelers, which want to be driven to the small train-stations. If they are constantly supplied with travelers, they satisfy the market needs.
+
+One Central train-station can supply up to 3 or 4 small train-stations, depending on logistical circumstances.
+
+It is possible to combine both railway-systems: the oil-system and the traveler-system. The trains will transport both of them at the same time. But with seperate systems, the supply is more secured for all train-dependent buildings.
+
+In addition the look of the train has been slightly modified and a wagon for transportation of travelers has been added.
+
+The train-stations will be unlocked at 1000 engineers.
+
+Train-Stations v1.0 by Fishboss

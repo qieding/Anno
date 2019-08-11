@@ -1,0 +1,5 @@
+This Mod adds 10 modular buildable parts of a castle into the game (2 main-buildings and 8 side-buildings), unlocked at 750 investors. The castle mainly consists of buildings from Archibald Blake (3rd Party) and some parts of other buldings. 
+
+Explanation: You got the choice! Do you want a straight castle but with an offset between the individual modules OR a crooked castle but with smooth connections between the modules
+
+Archibalds Castle v1.2.2 by Fishboss
