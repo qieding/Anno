@@ -3,6 +3,8 @@
 > Life is really simple, but we insist on making it complicated.
 > - Confucius
 
+![Anno 1800 Mod Manager](http://i.imgur.com/HYo0xNb.jpg)
+
 ## Setup
 
 1. Download: [latest Version](https://github.com/akkzockt/Anno1800Mods/archive/master.zip)
