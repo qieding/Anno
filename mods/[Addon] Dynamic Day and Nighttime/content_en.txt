@@ -1,1 +1,1 @@
-adds a dynamic day-night-cycle to the game. 
+Adds a dynamic day-night-cycle to the game.
