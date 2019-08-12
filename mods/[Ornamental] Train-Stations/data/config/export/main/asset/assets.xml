@@ -187,7 +187,9 @@
                                 </Item>
                               </Variations>
                             </Object>
-                            <Mesh />
+                            <Mesh>
+                              <MeshPlacement>OnTerrain</MeshPlacement>
+                            </Mesh>
                             <Selection>
                               <ParticipantMessageArcheType>Resident_tier05</ParticipantMessageArcheType>
                             </Selection>
@@ -247,7 +249,6 @@
                               <ProductivityTimeMultiplier>30</ProductivityTimeMultiplier>
                               <ProductivityPoints>1</ProductivityPoints>
                             </FactoryBase>
-                            <Culture />
                             <ItemGenerator />
                             <PublicService>
                               <FullSatisfactionDistance>30</FullSatisfactionDistance>
@@ -274,6 +275,9 @@
                             <Attractiveness>20</Attractiveness>
                               <CultureSpawnGroup>1</CultureSpawnGroup>
                             </Culture>
+                            <Powerplant>
+                              <ElectricityDistance>0</ElectricityDistance>
+                            </Powerplant>
                           </Values>
                         </Asset>
   </ModOp>
@@ -329,7 +333,9 @@
                                 </Item>
                               </Variations>
                             </Object>
-                            <Mesh />
+                            <Mesh>
+                              <MeshPlacement>OnTerrain</MeshPlacement>
+                            </Mesh>
                             <Selection>
                               <ParticipantMessageArcheType>Resident_tier03_atWork</ParticipantMessageArcheType>
                             </Selection>
@@ -411,6 +417,9 @@
                             <Ornament>
                               <OrnamentDescritpion>850015</OrnamentDescritpion>
                             </Ornament>
+                            <Powerplant>
+                              <ElectricityDistance>0</ElectricityDistance>
+                            </Powerplant>
                           </Values>
                         </Asset>
   </ModOp>
