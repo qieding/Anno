@@ -21,7 +21,7 @@
 
 1. Download [latest Version](https://github.com/akkzockt/Anno1800Mods/archive/master.zip)
 2. Unzip it
-3. Copy **config.json** of old folder into latest folder
+3. Copy **config.json** from old folder to newest folder
 
 ## Hints
 
