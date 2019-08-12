@@ -1,4 +1,4 @@
-Main version of Nature Ornaments Mod. Includes Vanilla Paths Fix and all park elements and ornaments.
+Lite version of Nature Ornaments Mod. Includes Vanilla Paths Fix.
 
 SAVE GAME COMPATIBILITY:
 Nature Ornaments Mod does not have any in-game triggers like e.g. "reach Artisans", so it should be save-game friendly. It has been tested on many saves and works fine, but... With that in mind, it adds over 50 new GUIDs (and those still have a funny way of not liking old-saves) and even more elements and variations, so if you encounter any issues just drop me a message on Reddit, or any contact listed at the bottom.
