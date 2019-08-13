@@ -25,9 +25,11 @@
 
 ## Hints
 
+* Read the Mod descriptions (**RTMD!**)
+* Choose wisely - because some Mods exclude each other
 * Don't use Mod Manager while Anno 1800 is running
-* Don't forget to toggle **Mod Enabled** <--> **Mod Disabled**
-* **Start Anno 1800** can take a while, be patient
+* Switch to **Mod Disabled** before Anno gets patched
+* **Start Anno 1800** can take a while - be patient
 
 ## Contribute
 
