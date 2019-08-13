@@ -11,11 +11,13 @@
 2. Unzip it
 3. Run **ModManager.exe**
 
-## Content
+## Hints
 
-* [Anno 1800 Mod Loader](https://github.com/xforce/anno1800-mod-loader)
-* [Spice it Up Collection](https://www.nexusmods.com/anno1800/mods/5)
-* Nature Ornaments, Archibalds Castle, Train-Stations...
+* Read the Mod descriptions (**RTMD!**)
+* Choose wisely - because some Mods exclude each other
+* Don't use Mod Manager while Anno 1800 is running
+* Switch to **Mods Disabled** before Anno gets patched
+* **Start Anno 1800** can take a while - be patient
 
 ## Update
 
@@ -23,18 +25,16 @@
 2. Unzip it
 3. Copy **config.json** from old folder to newest folder
 
-## Hints
+## Content
 
-* Read the Mod descriptions (**RTMD!**)
-* Choose wisely - because some Mods exclude each other
-* Don't use Mod Manager while Anno 1800 is running
-* Switch to **Mod Disabled** before Anno gets patched
-* **Start Anno 1800** can take a while - be patient
-
-## Contribute
-
-If you want to add Mods, it's easy, just create a **Pull Request** ;-)
+* [Anno 1800 Mod Loader](https://github.com/xforce/anno1800-mod-loader)
+* [Spice it Up Collection](https://www.nexusmods.com/anno1800/mods/5)
+* Nature Ornaments, Archibalds Castle, Train-Stations...
 
 ## Credit
 
 Thanks to all **Mod Makers** and **Tool Creators** - Join us on [Discord](https://discord.gg/KEVaVby)
+
+## Contribute
+
+If you want to add Mods, it's easy, just create a **Pull Request** ;-)
