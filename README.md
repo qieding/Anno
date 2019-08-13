@@ -19,6 +19,10 @@
 * Switch to **Mods Disabled** before Anno gets patched
 * **Start Anno 1800** can take a while - be patient
 
+## Troubleshooting
+
+* Download and install [Visual C++ Redistributable Packages](https://aka.ms/vs/16/release/VC_redist.x64.exe)
+
 ## Update
 
 1. Download [latest Version](https://github.com/akkzockt/Anno1800Mods/archive/master.zip)
