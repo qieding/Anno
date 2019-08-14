@@ -22,12 +22,13 @@
 ## Troubleshooting
 
 * Download and install [Visual C++ Redistributable Packages](https://aka.ms/vs/16/release/VC_redist.x64.exe)
+* Try **Run as administrator** (UAC)
 
 ## Update
 
-1. Download [latest Version](https://github.com/akkzockt/Anno1800Mods/archive/master.zip)
-2. Unzip it
-3. Copy **config.json** from old folder to newest folder
+1. Download and unzip [latest Version](https://github.com/akkzockt/Anno1800Mods/archive/master.zip)
+2. Copy **config.json** from old folder to newest folder
+3. Run **Force Clean Copy** in **Tool** menu
 
 ## Content
 
