@@ -1,13 +1,20 @@
-# Anno 1800 Mods (incl. Mod Manager)
+<p align="center">
+    <img src="https://github.com/anno-mods.png">
+</p>
+<h2 align="center">Anno 1800 Mods (incl. Mod Manager)</h2>
+
+<br/>
 
 > Life is really simple, but we insist on making it complicated.
 > -- ***Confucius***
+
+<br/>
 
 ![Anno 1800 Mod Manager](http://i.imgur.com/HYo0xNb.jpg)
 
 ## Setup
 
-1. Download [latest Version](https://github.com/anno-mods/anno/archive/Mods.zip)
+1. Download [latest Version](https://bit.do/anno-mods)
 2. Unzip it
 3. Run **ModManager.exe**
 
@@ -26,7 +33,7 @@
 
 ## Update
 
-1. Download and unzip [latest Version](https://github.com/anno-mods/anno/archive/Mods.zip)
+1. Download and unzip [latest Version](https://bit.do/anno-mods)
 2. Copy **config.json** from old folder to newest folder
 3. Run **Force Clean Copy** in **Tool** menu
 
