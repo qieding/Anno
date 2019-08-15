@@ -7,7 +7,7 @@
 
 ## Setup
 
-1. Download [latest Version](https://github.com/akkzockt/Anno1800Mods/archive/master.zip)
+1. Download [latest Version](https://github.com/anno-mods/anno/archive/Mods.zip)
 2. Unzip it
 3. Run **ModManager.exe**
 
@@ -26,7 +26,7 @@
 
 ## Update
 
-1. Download and unzip [latest Version](https://github.com/akkzockt/Anno1800Mods/archive/master.zip)
+1. Download and unzip [latest Version](https://github.com/anno-mods/anno/archive/Mods.zip)
 2. Copy **config.json** from old folder to newest folder
 3. Run **Force Clean Copy** in **Tool** menu
 
