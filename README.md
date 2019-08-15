@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://github.com/anno-mods.png">
 </p>
-<h2 align="center">Anno 1800 Mods (incl. Mod Manager)</h2>
+<h1 align="center">Anno 1800 Mods (incl. Mod Manager)</h1>
 
 ![Anno 1800 Mod Manager](http://i.imgur.com/HYo0xNb.jpg)
 
