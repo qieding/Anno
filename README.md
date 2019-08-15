@@ -3,7 +3,9 @@
 </p>
 <h1 align="center">Anno 1800 Mods (incl. Mod Manager)</h1>
 
-![Anno 1800 Mod Manager](http://i.imgur.com/HYo0xNb.jpg)
+<p align="center">
+<img src="http://i.imgur.com/HYo0xNb.jpg=250x" width=80%>
+</p>
 
 ## Setup
 
