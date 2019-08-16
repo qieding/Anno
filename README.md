@@ -9,7 +9,7 @@
 
 ## Setup
 
-1. Download [latest Version](https://bit.do/anno-mods)
+1. Download [latest Version](https://git.io/annomods)
 2. Unzip it
 3. Run **ModManager.exe**
 
@@ -28,7 +28,7 @@
 
 ## Update
 
-1. Download and unzip [latest Version](https://bit.do/anno-mods)
+1. Download and unzip [latest Version](https://git.io/annomods)
 2. Copy **config.json** from old folder to newest folder
 3. Run **Force Clean Copy** in **Tool** menu
 
