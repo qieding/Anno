@@ -1,1 +1,0 @@
-Adds a slow-mo mode to the game which can be enabled by pressing 'Q'.
