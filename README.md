@@ -13,6 +13,12 @@
 2. Unzip it
 3. Run **ModManager.exe**
 
+## 'Windows protected your PC'
+
+1. When you receive this warning - **don’t click** on the *Don’t run* option
+2. Instead - click on the **More info** link - displayed beneath the message
+3. A new prompt will be displayed - just click **Run anyway**
+
 ## Hints
 
 * Read the Mod descriptions (**RTMD!**)
