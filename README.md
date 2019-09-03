@@ -23,6 +23,12 @@
 2. Instead - click on the **More info** link - displayed beneath the message
 3. A new prompt will be displayed - just click **Run anyway**
 
+## Usage
+
+* Pick/Check Mods in Collection list
+* Switch **Loader Disabled** to **Loader Active**
+* Start game
+
 ## Hints
 
 * Read the Mod descriptions (**RTMD!**)
